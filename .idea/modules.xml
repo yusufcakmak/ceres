@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ceres.iml" filepath="$PROJECT_DIR$/ceres.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android/ceres_android.iml" filepath="$PROJECT_DIR$/android/ceres_android.iml" />
+<module fileurl="file://$PROJECT_DIR$/packages/features/ceres_assets/melos_ceres_assets.iml" filepath="$PROJECT_DIR$/packages/features/ceres_assets/melos_ceres_assets.iml"/>
+<module fileurl="file://$PROJECT_DIR$/packages/core/ceres_core/melos_ceres_core.iml" filepath="$PROJECT_DIR$/packages/core/ceres_core/melos_ceres_core.iml"/>
+<module fileurl="file://$PROJECT_DIR$/packages/features/ceres_dashboard/melos_ceres_dashboard.iml" filepath="$PROJECT_DIR$/packages/features/ceres_dashboard/melos_ceres_dashboard.iml"/>
+<module fileurl="file://$PROJECT_DIR$/apps/ceres_desktop/melos_ceres_desktop.iml" filepath="$PROJECT_DIR$/apps/ceres_desktop/melos_ceres_desktop.iml"/>
+<module fileurl="file://$PROJECT_DIR$/packages/features/ceres_network/melos_ceres_network.iml" filepath="$PROJECT_DIR$/packages/features/ceres_network/melos_ceres_network.iml"/>
+<module fileurl="file://$PROJECT_DIR$/packages/features/ceres_runner/melos_ceres_runner.iml" filepath="$PROJECT_DIR$/packages/features/ceres_runner/melos_ceres_runner.iml"/>
+<module fileurl="file://$PROJECT_DIR$/packages/features/ceres_scripts/melos_ceres_scripts.iml" filepath="$PROJECT_DIR$/packages/features/ceres_scripts/melos_ceres_scripts.iml"/>
+<module fileurl="file://$PROJECT_DIR$/packages/core/ceres_ui/melos_ceres_ui.iml" filepath="$PROJECT_DIR$/packages/core/ceres_ui/melos_ceres_ui.iml"/>
+<module fileurl="file://$PROJECT_DIR$/melos_ceres_workspace.iml" filepath="$PROJECT_DIR$/melos_ceres_workspace.iml"/>
+<module fileurl="file://$PROJECT_DIR$/ceres.iml" filepath="$PROJECT_DIR$/ceres.iml"/>
+<module fileurl="file://$PROJECT_DIR$/android/ceres_android.iml" filepath="$PROJECT_DIR$/android/ceres_android.iml"/>
     </modules>
   </component>
 </project>

@@ -1,0 +1,20 @@
+name: ceres_ui
+description: Common UI widgets for Ceres
+version: 1.0.0
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.16.0"
+
+resolution: workspace
+
+dependencies:
+  flutter:
+    sdk: flutter
+  ceres_core:
+    path: ../ceres_core
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0

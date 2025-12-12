@@ -1,0 +1,22 @@
+name: ceres_assets
+description: Asset manager for Ceres
+version: 1.0.0
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+  flutter: ">=3.16.0"
+
+resolution: workspace
+
+dependencies:
+  flutter:
+    sdk: flutter
+  ceres_core:
+    path: ../../core/ceres_core
+  ceres_ui:
+    path: ../../core/ceres_ui
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0

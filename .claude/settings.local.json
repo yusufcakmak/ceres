@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(dart pub:*)",
+      "Bash(melos bootstrap:*)",
+      "Bash(dart run:*)",
+      "Bash(flutter create:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
